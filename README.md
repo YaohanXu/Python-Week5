@@ -1,5 +1,4 @@
 <img src="imgs/banner.png" alt="Banner Image" style="width: 100%; height: auto;" />
-## OSM and Network Analysis
 
 October 10
 
